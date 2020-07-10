@@ -4,7 +4,7 @@ pipeline {
     stage('Checkout') {
       steps {
         https://github.com/rakeshragipani/NodeJS-Sample-App.git
-      }
-   }
- }
-}
+            }
+         }
+        }
+       }
